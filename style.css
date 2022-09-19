@@ -1,0 +1,20 @@
+body {
+    background: #CCCCCC;
+}
+
+p {
+    text-align: center;
+    background: #CCCCCC
+}
+
+em strong {
+    color: red;
+}
+
+#missão {
+    font-size: 20px;
+}
+
+#banner {
+    width: 100%;
+}
